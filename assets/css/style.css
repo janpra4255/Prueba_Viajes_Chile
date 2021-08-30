@@ -108,3 +108,9 @@ footer {
 footer a:visited {
     color: #fff
 }
+
+/* Modal */
+
+#Modal h4:first-child {
+    font-family: 'Raleway', sans-serif;
+}
