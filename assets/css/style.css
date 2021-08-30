@@ -28,3 +28,56 @@ nav img {
 #Hero-Section img {
     height: 100vh;
 }
+
+
+/* Section Quienes Somos */
+
+#QuienesSomos {
+    font-family: 'Raleway', sans-serif;
+}
+
+#QuienesSomos hr {
+    color: #00A5BB;
+    border: 1px solid;
+    width: 95%;
+}
+
+#QuienesSomos article div {
+    background-color: #00A5BB;
+    padding: 0 8px;
+    cursor: pointer;
+}
+
+#QuienesSomos article div:hover {
+    background-color: #14717e;
+}
+
+#QuienesSomos article div i {
+    color: #fff;
+}
+
+#QuienesSomos .color-tooltip {
+    background-color: #f0e5d8;
+}
+
+
+/* Destacados */
+
+#Destacados {
+    font-family: 'Raleway', sans-serif;
+}
+
+#Destacados hr {
+    color: #00A5BB;
+    border: 1px solid;
+    width: 93%;
+}
+
+#Destacados img {
+    max-height: 158.63px;
+}
+
+#Destacados .card-body {
+    background-color: #00A5BB;
+    color: #fff;
+}
