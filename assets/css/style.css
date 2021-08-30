@@ -1,0 +1,30 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color: #000;
+}
+
+
+/* Navbar */
+
+nav img {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}
+
+.navbar-brand,
+.nav-link {
+    font-family: 'Raleway', sans-serif;
+}
+
+.fondo-navbar {
+    background-color: #00A5BB;
+}
+
+
+/* Header */
+
+#Hero-Section img {
+    height: 100vh;
+}
