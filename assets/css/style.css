@@ -81,3 +81,30 @@ nav img {
     background-color: #00A5BB;
     color: #fff;
 }
+
+
+/* Contacto */
+
+#Contacto {
+    font-family: 'Raleway', sans-serif;
+}
+
+#Contacto hr {
+    color: #00A5BB;
+    border: 1px solid;
+    width: 93%
+}
+
+
+/* Footer */
+
+footer {
+    background-color: #00A5BB;
+    font-family: 'Raleway', sans-serif;
+    text-decoration: none;
+    color: #fff;
+}
+
+footer a:visited {
+    color: #fff
+}
